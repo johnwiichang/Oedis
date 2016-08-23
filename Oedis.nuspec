@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Oedis</id>
+    <version>0.2</version>
+    <authors>Johnwii</authors>
+    <owners>Johnwii</owners>
+    <licenseUrl>http://prpr.pro/?go=f172e</licenseUrl>
+    <projectUrl>http://prpr.pro/?go=c66a2</projectUrl>
+    <iconUrl>http://prpr.pro/oedis.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A simple Redis ORM Framework based on StackExchange.Redis.</description>
+    <releaseNotes>Release Oedis public package.</releaseNotes>
+    <copyright>Copyright Johnwii 2016</copyright>
+    <tags>Redis NoSQL ORM StackExchange.Redis</tags>
+  </metadata>
+</package>
